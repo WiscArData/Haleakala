@@ -1,6 +1,6 @@
 {
     "Ax": {
-        "error": 0.0014720846622015863,
+        "error": 0.0020385594673480775,
         "fit": "exponential",
         "references": [
             {
@@ -87,10 +87,10 @@
         "reviewed": true,
         "source_correction": true,
         "standard_ratio": null,
-        "value": 1.0126563662470238
+        "value": 1.034768669298453
     },
     "H2": {
-        "error": 0.0007209171230011089,
+        "error": 0.000987457378854569,
         "fit": "exponential",
         "references": [
             {
@@ -177,10 +177,10 @@
         "reviewed": true,
         "source_correction": true,
         "standard_ratio": null,
-        "value": 1.0062179102187123
+        "value": 1.0169875542601194
     },
     "L2": {
-        "error": 0.0022490067832423516,
+        "error": 0.0031494841101586566,
         "fit": "exponential",
         "references": [
             {
@@ -267,11 +267,11 @@
         "reviewed": true,
         "source_correction": true,
         "standard_ratio": null,
-        "value": 1.0192733170011097
+        "value": 1.0532461679669989
     },
     "L4": {
-        "error": 0.001408941959930948,
-        "fit": "Bracketing Average",
+        "error": 0.004335561394958633,
+        "fit": "exponential",
         "references": [
             {
                 "exclude": "ok",
@@ -355,7 +355,8 @@
             }
         ],
         "reviewed": true,
-        "standard_ratio": 298.56,
-        "value": 0.9702577324604249
+        "source_correction": true,
+        "standard_ratio": null,
+        "value": 1.0726394609413836
     }
 }
