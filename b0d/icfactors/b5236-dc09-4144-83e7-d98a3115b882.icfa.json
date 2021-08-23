@@ -270,8 +270,8 @@
         "value": 1.0192733170011097
     },
     "L4": {
-        "error": 0.0030604738275315942,
-        "fit": "exponential",
+        "error": 0.001408941959930948,
+        "fit": "Bracketing Average",
         "references": [
             {
                 "exclude": "ok",
@@ -355,8 +355,7 @@
             }
         ],
         "reviewed": true,
-        "source_correction": true,
-        "standard_ratio": null,
-        "value": 1.026139777676823
+        "standard_ratio": 298.56,
+        "value": 0.9702577324604249
     }
 }
