@@ -1,0 +1,62 @@
+{
+    "Ar36": {
+        "error": 1.838021964715094e-07,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "ba-01-n-3287"
+            }
+        ],
+        "value": 1.6866884315358114e-06
+    },
+    "Ar37": {
+        "error": 6.532617657501014e-07,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "ba-01-n-3287"
+            }
+        ],
+        "value": 1.5292509105999466e-06
+    },
+    "Ar38": {
+        "error": 1.2051495884072363e-07,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "ba-01-n-3287"
+            }
+        ],
+        "value": 1.6248273202091258e-07
+    },
+    "Ar39": {
+        "error": 1.4334836459751667e-07,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "ba-01-n-3287"
+            }
+        ],
+        "value": 2.2568574172682633e-06
+    },
+    "Ar40": {
+        "error": 1.8297116227378689e-06,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "ba-01-n-3287"
+            }
+        ],
+        "value": 0.0002940642743695823
+    }
+}
