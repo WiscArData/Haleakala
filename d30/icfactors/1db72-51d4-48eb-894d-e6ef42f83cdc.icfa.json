@@ -270,7 +270,7 @@
         "value": 1.0388404980902861
     },
     "L4": {
-        "error": 0.0015575365247817979,
+        "error": 0.0015435594314467784,
         "fit": "Bracketing Average",
         "references": [
             {
@@ -284,12 +284,12 @@
                 "uuid": "3f1993eb-70fb-4013-8ee4-ed6a6055fbc0"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "a-01-N-4179",
                 "uuid": "b5afaba7-01f8-43e9-b0ad-8bf617ba9673"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-01-N-4180",
                 "uuid": "c040f6c7-94ef-485c-a7ac-ab4c11557d02"
             },
@@ -306,6 +306,6 @@
         ],
         "reviewed": true,
         "standard_ratio": 298.56,
-        "value": 0.9993345695080548
+        "value": 0.9966094384103408
     }
 }
