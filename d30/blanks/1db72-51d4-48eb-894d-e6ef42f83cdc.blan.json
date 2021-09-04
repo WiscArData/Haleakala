@@ -1,8 +1,8 @@
 {
     "Ar36": {
-        "error": 2.8180116610339088e-08,
+        "error": 2.027692918393067e-08,
         "error_type": "",
-        "fit": "Preceding",
+        "fit": "Bracketing Average",
         "references": [
             {
                 "exclude": "ok",
@@ -56,7 +56,7 @@
             }
         ],
         "reviewed": true,
-        "value": 1.1904530526845003e-06
+        "value": 1.1740851271828436e-06
     },
     "Ar37": {
         "error": 1.4110595717221466e-07,
